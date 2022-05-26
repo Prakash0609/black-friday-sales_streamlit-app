@@ -1,2 +1,2 @@
-# black-friday-sales_streamlit-app
-Black Friday Sales Prediction &amp; Thanksgiving App
+# iowa-liquor-sales_streamlit-app
+iowa liqour sales App
